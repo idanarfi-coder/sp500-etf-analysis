@@ -21,3 +21,5 @@
 בסימולציה של 30 שנה על סכום של 100,000 ש"ח, נמצא כי המעבר ל-SPLG חוסך למשקיע 4,741 ש"ח בעמלות וריבית דריבית אבודה, לעומת השקעה בקרנות המקבילות VOO או IVV.
 
 ![S&P 500 Comparison Graph](investment_graph.png)
+
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/9d473424-0f1a-4115-a3f1-10dec8fb7617" />
